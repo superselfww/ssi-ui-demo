@@ -1,0 +1,40 @@
+[
+    {
+        "section": "Mental Health",
+        "items": [
+            { "label": "Emotional Recognition", "icon": 1, "color": "bg-yellow-100", "href": "/emotional-recognition" },
+            { "label": "Meditation", "icon": 2, "color": "bg-yellow-100", "href": "/meditation" },
+            { "label": "Exercises", "icon": 3, "color": "bg-yellow-100", "href": "/exercises" }
+        ]
+    },
+    {
+        "section": "Assessment",
+        "items": [
+            { "label": "Know my Strength", "icon": 4, "color": "bg-blue-100", "href": "/assessment/know-my-strength" },
+            { "label": "Know My Super Power", "icon": 5, "color": "bg-blue-100", "href": "/assessment/know-my-super-power" },
+            { "label": "Assess My Mental Health", "icon": 6, "color": "bg-blue-100", "href": "/assessment/my-mental-health" }
+        ]
+    },
+    {
+        "section": "Games",
+        "items": [
+            { "label": "Team Pictionary", "icon": 7, "color": "bg-green-100", "href": "/account/team-pictionary" },
+            { "label": "Guess Who?", "icon": 8, "color": "bg-green-100", "href": "/account/guess-who" },
+            { "label": "Partner Scrabble", "icon": 9, "color": "bg-green-100", "href": "/account/partner-scrabble" }
+        ]
+    }, 
+    {
+        "section": "Reports",
+        "items": [
+            { "label": "Skill Acquisition Report", "icon": 10, "color": "bg-purple-100", "href": "/skill-acquisition-report" },
+            { "label": "Emotional Development Report", "icon": 11, "color": "bg-purple-100", "href": "/account/emotional-development-report" },
+            { "label": "My Progress", "icon": 12, "color": "bg-purple-100", "href": "/account/my-progress" }
+        ]
+    },
+    {
+        "section": "Other",
+        "items": [
+            { "label": "SEL Sessions", "icon": 13, "color": "bg-pink-100", "href": "/sel-sessions" }
+        ]
+    }
+]
