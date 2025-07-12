@@ -1,0 +1,81 @@
+[
+    {
+        "section": "Dashboard",
+        "items": [
+            {
+                "label": "Dashboard",
+                "icon": 14,
+                "color": "bg-orange-100",
+                "href": "/dashboard"
+            },
+            {
+                "label": "Analytics",
+                "icon": 16,
+                "color": "bg-green-100",
+                "href": "/analytics"
+            },
+            {
+                "label": "Chat",
+                "icon": 17,
+                "color": "bg-green-100",
+                "href": "/chat"
+            }
+        ]
+    },
+    {
+        "section": "Workshops",
+        "items": [
+            {
+                "label": "Workshops",
+                "icon": 8,
+                "color": "bg-green-100",
+                "href": "/workshop"
+            }
+        ]
+    },
+    {
+        "section": "Activity",
+        "items": [
+            {
+                "label": "Assigments",
+                "icon": 10,
+                "color": "bg-green-100",
+                "href": "/activity"
+            },
+            {
+                "label": "Quizzes",
+                "icon": 15,
+                "color": "bg-green-100",
+                "href": "/activity"
+            }
+        ]
+    },
+    {
+        "section": "Mental Health",
+        "items": [
+            {
+                "label": "Meditation",
+                "icon": 2,
+                "color": "bg-yellow-100",
+                "href": "/meditation"
+            },
+            {
+                "label": "Exercises",
+                "icon": 3,
+                "color": "bg-yellow-100",
+                "href": "/exercises"
+            }
+        ]
+    },
+    {
+        "section": "Profile",
+        "items": [
+            {
+                "label": "Profile Settings",
+                "icon": 19,
+                "color": "bg-orange-100",
+                "href": "/update-profile"
+            }
+        ]
+    }
+]
